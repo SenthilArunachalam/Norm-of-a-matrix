@@ -38,15 +38,18 @@ print(norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![output 1](https://github.com/user-attachments/assets/ba5a1c90-9d2a-4984-b671-18896f94732c)
+![image](https://github.com/user-attachments/assets/3b8bbb3f-65db-4b64-801d-a84316f386de)
+
 
 
 ### 2-Norm of a Matrix
-![output 2](https://github.com/user-attachments/assets/1c0480c5-b4e6-4a9b-921a-ffce4c410853)
+![image](https://github.com/user-attachments/assets/342fe917-0051-4576-a9cb-3f738c2700e7)
+
 
 
 ### Infinity Norm of a Matrix
-![output 3](https://github.com/user-attachments/assets/94b33a86-3bb6-49b2-885a-86ba70ffe66a)
+
+![image](https://github.com/user-attachments/assets/9df227e5-5d9e-40d2-8aaf-3b1e08184f79)
 
 
 ## Result
